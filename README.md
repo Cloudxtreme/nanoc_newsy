@@ -1,4 +1,4 @@
 nanoc_newsy
 ===========
 
-A recoloration/redesign of my personal website using a newspaper-themed look.  One of many.
+Initial draft of a recoloration/redesign of my personal website using a newspaper-themed look.
